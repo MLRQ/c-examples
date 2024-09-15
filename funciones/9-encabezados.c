@@ -16,7 +16,7 @@ int main() {
 
     //llamando a funcion4()
     v = funcion4(10);
-    printf("v = %d\n", v)");
+    printf("v = %d\n", v);
 
 
     //llama a la funcion5()
@@ -47,12 +47,6 @@ int funcion3(int x) {
     return y;
 }
 
-int funcion5(int x) {
-    printf("en funcion5");
-int funcion4(int x) {
-    printf("En funcion4()");
-    return x;
-}
 
 // Implementacion de funcion4()
 int funcion4(int x) {
